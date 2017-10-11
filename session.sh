@@ -21,7 +21,8 @@ $ mkdir imgs
 
 # At appropriate checkpoints, you'll need to do the following:
 # Add all of your changes that you've made to git
-$ git pull https://github.com/isaiahw23/isaiahw23-a1-news-markdown.github.io.git
+$ git add README.md
+$ git add session.sh
 
 # Make a commit, including a descriptive message
 $ git commit -m "My descritpive message"
